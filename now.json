@@ -1,7 +1,4 @@
 {
     "version": 2,
     "name": "node101-node101-express-server",
-    "builds": [
-      { "src": "app.js", "use": "@now/node-server" }
-    ],
   }
